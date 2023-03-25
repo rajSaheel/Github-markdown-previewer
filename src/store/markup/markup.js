@@ -9,7 +9,7 @@ export const editMarkup = (newMarkup) => {
   }
 }
 
-const defaultState = `Default Markup`
+const defaultState = "Default Markup"
 
 const markup = (state = defaultState, action) => {
   switch (action.type) {
