@@ -1,4 +1,12 @@
+body{
+  background:#87b5b5
+}
+
 main {
   text-align: center;
   vertical-align: center;
+}
+
+code{
+  background:#fff;
 }
